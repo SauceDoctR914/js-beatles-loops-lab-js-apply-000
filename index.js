@@ -28,6 +28,7 @@ function johnLennonFacts (array) {
     }
     while (num < 15);
     return loveArray;
+  }
     }
   }
   }
