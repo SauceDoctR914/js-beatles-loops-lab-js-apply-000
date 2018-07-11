@@ -19,7 +19,7 @@ function johnLennonFacts (array) {
     i++;
   }
   return array;
-  
+}
   function iLoveTheBeatles (num){
     let loveArray = [];
     do {
@@ -29,7 +29,4 @@ function johnLennonFacts (array) {
     while (num < 15);
     return loveArray;
   }
-    }
-  }
-  }
-}
+ 
