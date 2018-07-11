@@ -12,4 +12,4 @@ const facts = [
   "He hated the sound of his own voice"
 ];
 
-for 
+function johnLennonFacts
